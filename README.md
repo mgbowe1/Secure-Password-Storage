@@ -19,8 +19,7 @@ If you are using some other starting materails, explain what they are. Basically
 Will be working on how we demo the project on the final day and how we are going to be presenting it.
 
 ### Evaluation of Results
-How will you know if you are successful? 
-If you include some kind of _quantitative analysis,_ that would be good.
+The success of this project will be measured by the ability to store passwords with usernames and website names in an ecrypted text file and retrieve them correctly on a search by website name.
 
 ## Architecture Diagram
 Wll create the diagrams illustrating the the structure of the program.
