@@ -18,22 +18,14 @@ Do your homework here: if you are pulling data from somewhere, actually go downl
 If you are using some other starting materails, explain what they are. Basically: anything you plan to use that isn't code.
 
 ### Deliverable and Demonstration
-Explain exactly what you'll have at the end. What will it be able to do at the live demo?
-
-What exactly will you produce at the end of the project? A piece of software, yes, but what will it do? Here are some questions to think about (and answer depending on your application).
-
-Will it run on some data, like batch mode? Will you present some analytical results of the processing? How can it be re-run on different source data?
-
-Will it be interactive? Can you show it working? This project involves a live demo, so interactivity is good.
+Will be working on how we demo the project on the final day and how we are going to be presenting it.
 
 ### Evaluation of Results
 How will you know if you are successful? 
 If you include some kind of _quantitative analysis,_ that would be good.
 
 ## Architecture Diagram
-Upload the architecture diagram you made for your slide presentation to your repository, and include it in-line here.
-
-Create several paragraphs of narrative to explain the pieces and how they interoperate.
+Wll create the diagrams illustrating the the structure of the program.
 
 ## Schedule
 Explain how you will go from proposal to finished product. 
@@ -47,13 +39,13 @@ You will be expected to turn in code, documentation, and data (as appropriate) a
 Write concrete steps for your schedule to move from concept to working system. 
 
 ### First Milestone (Fri Apr 15)
-What exactly will be turned in on this day? 
+Working Alogritm to the program. Prototype UI for the program.
 
 ### Second Milestone (Fri Apr 22)
-What exactly will be turned in on this day? 
+Working Ui to the project.
 
 ### Final Presentation (last week of semester)
-What additionally will be done in the last chunk of time?
+Algorithm and UI talking with each other. 
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
