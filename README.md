@@ -1,7 +1,7 @@
 # RSA: Secure Password Storage
 
 ### Statement
-This project is an implementation of RSA. RSA is a an encryption system withou a Racket Library. We would like to write a library to do RSA encryption in Racket. To test this we will be writing a secure password storage system.
+This project is an implementation of RSA. RSA is a an encryption system without a Racket Library. We would like to write a library to do RSA encryption in Racket. To test this we will be writing a secure password storage system.
 
 ### Analysis
 We will be using recursion, map/filter/reduce, and object-orientation in our project. RSA will be implemented as no object using the message passing style. The search algorithm for retrieving passwords will make use of filter. Since, RSA depends heavily on primality we will implement a primality test using recursion.
@@ -16,18 +16,18 @@ Do your homework here: if you are pulling data from somewhere, actually go downl
 If you are using some other starting materails, explain what they are. Basically: anything you plan to use that isn't code.
 
 ### Deliverable and Demonstration
-Will be working on how we demo the project on the final day and how we are going to be presenting it.
+I will be handling the demonstration plan, how it will be presented and the power points.
 
 ### Evaluation of Results
 <<<<<<< HEAD
-The success of this project will be measured by the ability to store passwords with usernames and website names in an ecrypted text file and retrieve them correctly on a search by website name.
+The success of this project will be measured by the ability to store passwords with usernames and website names in an encrypted text file and retrieve them correctly on a search by website name.
 =======
 How will you know if you are successful?
 If you include some kind of _quantitative analysis,_ that would be good.
 >>>>>>> master
 
 ## Architecture Diagram
-Wll create the diagrams illustrating the the structure of the program.
+I will be handling the Diagram/Uml of the project.
 
 ## Schedule
 Explain how you will go from proposal to finished product.
@@ -67,5 +67,5 @@ I will write the rsa algorithm since I've been studying cryptography in Discrete
 
 ### Aliyu Zakari @ABZaxxon
 I will be planning our demo and be doing the illustration of our project.
-   
+
 >>>>>>> master
