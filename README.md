@@ -1,7 +1,7 @@
 # RSA: Secure Password Storage
 
 ### Statement
-This proect is an implementation of RSA. RSA is a an ecryption system withou a Racket Library. We would like to write a library to do RSA encryption in Racket. To test this we will be writing a secure password storage system.
+This project is an implementation of RSA. RSA is a an encryption system withou a Racket Library. We would like to write a library to do RSA encryption in Racket. To test this we will be writing a secure password storage system.
 
 ### Analysis
 We will be using recursion, map/filter/reduce, and object-orientation in our project. RSA will be implemented as no object using the message passing style. The search algorithm for retrieving passwords will make use of filter. Since, RSA depends heavily on primality we will implement a primality test using recursion.
@@ -37,7 +37,7 @@ You will be expected to turn in code, documentation, and data (as appropriate) a
 Write concrete steps for your schedule to move from concept to working system.
 
 ### First Milestone (Fri Apr 15)
-Working Alogritm to the program. Prototype UI for the program.
+Working Algorithm to the program. Prototype UI for the program.
 
 ### Second Milestone (Fri Apr 22)
 Working Ui to the project.
