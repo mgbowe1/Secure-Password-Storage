@@ -1,12 +1,10 @@
-# Project Title: title here (10 words maximum)
+# RSA: Secure Password Storage
 
 ### Statement
-Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn? 
+This proect is an implementation of RSA. RSA is a an ecryption system withou a Racket Library. We would like to write a library to do RSA encryption in Racket. To test this we will be writing a secure password storage system.
 
 ### Analysis
-Explain what approaches from class you will bring to bear on the project. Be explicit: e.g., will you use recursion? How? Will you use map/filter/reduce? How? Will you use data abstraction? Will you use object-orientation? Will you use functional approaches to processing your data? Will you use state-modification approaches? A combination?
-
-The idea here is to identify what ideas from the class you will use in carrying out your project. 
+We will be using recursion, map/filter/reduce, and object-orientation in our project. RSA will be implemented as no object using the message passing style. The search algorithm for retrieving passwords will make use of filter. Since, RSA depends heavily on primality we will implement a primality test using recursion.
 
 ### Data set or other source materials
 If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
