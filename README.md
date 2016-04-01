@@ -56,12 +56,8 @@ Here each group member gets a section where they, as an individual, detail what 
 
 In the headings below, replace the silly names and GitHub handles with your actual ones.
 
-### Susan Scheme @susanscheme
-will write the....
+### Michael Bowe @mgbowe1
+I will write the rsa algorithm since I've been studying cryptography in Discrete Structures II. I will also write the ui regarding password insertion.
 
 ### Leonard Lambda @lennylambda
 will work on...
-
-### Frank Functions @frankiefunk 
-Frank is team lead. Additionally, Frank will work on...   
-a
