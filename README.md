@@ -19,21 +19,26 @@ If you are using some other starting materails, explain what they are. Basically
 Will be working on how we demo the project on the final day and how we are going to be presenting it.
 
 ### Evaluation of Results
+<<<<<<< HEAD
 The success of this project will be measured by the ability to store passwords with usernames and website names in an ecrypted text file and retrieve them correctly on a search by website name.
+=======
+How will you know if you are successful?
+If you include some kind of _quantitative analysis,_ that would be good.
+>>>>>>> master
 
 ## Architecture Diagram
 Wll create the diagrams illustrating the the structure of the program.
 
 ## Schedule
-Explain how you will go from proposal to finished product. 
+Explain how you will go from proposal to finished product.
 
 There are three deliverable milestones to explicitly define, below.
 
-The nature of deliverables depend on your project, but may include things like processed data ready for import, core algorithms implemented, interface design prototyped, etc. 
+The nature of deliverables depend on your project, but may include things like processed data ready for import, core algorithms implemented, interface design prototyped, etc.
 
 You will be expected to turn in code, documentation, and data (as appropriate) at each of these stages.
 
-Write concrete steps for your schedule to move from concept to working system. 
+Write concrete steps for your schedule to move from concept to working system.
 
 ### First Milestone (Fri Apr 15)
 Working Alogritm to the program. Prototype UI for the program.
@@ -42,12 +47,12 @@ Working Alogritm to the program. Prototype UI for the program.
 Working Ui to the project.
 
 ### Final Presentation (last week of semester)
-Algorithm and UI talking with each other. 
+Algorithm and UI talking with each other.
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
-**Additional instructions for teams of three:** 
+**Additional instructions for teams of three:**
 * Remember that you must have prior written permission to work in groups of three (specifically, an approved `FP3` team declaration submission).
 * The team must nominate a lead. This person is primarily responsible for code integration. This work may be shared, but the team lead has default responsibility.
 * The team lead has full partner implementation responsibilities also.
@@ -60,3 +65,9 @@ I will write the rsa algorithm since I've been studying cryptography in Discrete
 
 ### Leonard Lambda @lennylambda
 will work on...
+<<<<<<< HEAD
+=======
+
+### Frank Functions @frankiefunk
+Frank is team lead. Additionally, Frank will work on...   
+>>>>>>> master
